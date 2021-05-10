@@ -1,0 +1,9 @@
+name: 'Scaleway Minio client command line'
+description: 'GitHub Action for Minio client configured for Scaleway object bucket'
+author: Rémy Léone
+runs:
+  using: docker
+  image: Dockerfile
+branding:
+  icon: 'folder'
+  color: 'purple'
